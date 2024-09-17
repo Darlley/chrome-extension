@@ -1,5 +1,10 @@
 # React + TypeScript + Vite
 
+![thumb](./Capturar.PNG)
+
+1. Faça o build
+2. Importe a dist nas extensões do Chrome em modo desenvolvedor
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
